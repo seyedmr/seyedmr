@@ -20,11 +20,6 @@
 </div>
 
 ###
-
-### <div align="center">
- ### <img height="250" src="https://avatars.githubusercontent.com/u/32652363?v=4"  />
-### </div>
-
 ###
 
 <br clear="both">
